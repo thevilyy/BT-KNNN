@@ -1,3 +1,7 @@
 xin chao moi nguoi
 tui la Yen Vi
+<<<<<<< HEAD
 khong di nha sach dau
+=======
+hom nay tui di nha sach
+>>>>>>> 4ae6124b6f4dbc457c150308822a2a3d3361146c
